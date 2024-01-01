@@ -3,12 +3,7 @@ import java.util.Collections;
 import java.util.List;
 import java.util.ArrayList;
 
-/**
- * @author Joe
- * @version 1.0
- * This is the StudentGrades class, which calculates the total score by taking the
- * given scores, multiplying them by their respective weights, and adding them together.
- */
+//The StudentGrades class calculates the total score by taking the given scores, multiplying them by their respective weights, and adding them together.
 public class StudentGrades {
     /**
      * These are fields that contain the students name, gnumber, grades for each category,
